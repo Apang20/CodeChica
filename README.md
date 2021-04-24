@@ -1,4 +1,4 @@
-# :computer: < CodeChica /> :seedling:
+#  < CodeChica /> 
 
 
 ## Overview
