@@ -2,7 +2,7 @@
 
 
 ## Overview
-Docs I use as a teaching assistant for girls in the CodeChia program to help them create their first portfolio.
+Docs I use as a teaching assistant for girls in the CodeChica program to help them create their first portfolio.
 
 
 
