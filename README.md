@@ -7,7 +7,7 @@ Docs I use as a teaching assistant for girls in the CodeChia program to help the
 
 
 ## Technologies 
-- JavaScript
+- Vanilla JavaScript
 - HTML
 - CSS
 
